@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="6dp"
+    app:cardCornerRadius="7dp"
+    app:cardElevation="11dp"
+    android:padding="10dp">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="3dp"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="46dp"
+        android:layout_height="46dp"
+        android:src="@drawable/you_tube" />
+
+    <TextView
+        android:id="@+id/video_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:layout_marginLeft="12dp"
+        android:textSize="22sp"
+        android:color="@color/black"/>
+
+    <ImageButton
+        android:id="@+id/deleteVideoBtn"
+        android:background="@drawable/image_background"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="-40dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/delete_icon"
+        android:text="Delete"
+        tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+</LinearLayout>
+
+</androidx.cardview.widget.CardView>

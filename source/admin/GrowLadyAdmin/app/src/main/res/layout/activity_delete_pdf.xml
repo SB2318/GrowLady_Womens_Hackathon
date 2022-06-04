@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    tools:context=".DeletePdfActivity">
+
+<androidx.constraintlayout.widget.ConstraintLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DeletePdfActivity">
+
+
+    <RelativeLayout
+           android:id="@+id/fiveRelativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/fivePdfTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-2dp"
+            android:padding="6dp"
+            android:text="Five"
+            android:textAlignment="center"
+            android:textColor="#151514"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+        <View
+            android:id="@+id/five_view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/fivePdfTextView"
+            android:layout_marginVertical="8dp"
+            android:background="#330707"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/fivePdfRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/five_view"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:nestedScrollingEnabled="false"/>
+
+
+
+
+        </RelativeLayout>
+
+    <RelativeLayout
+            android:id="@+id/sixRelativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="10dp"
+            app:layout_constraintTop_toBottomOf="@id/fiveRelativeLayout">
+
+        <TextView
+            android:id="@+id/sixPdfTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-2dp"
+            android:padding="6dp"
+            android:text="Six"
+            android:textAlignment="center"
+            android:textColor="#151514"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/six_view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/sixPdfTextView"
+            android:layout_marginVertical="8dp"
+            android:background="#330707"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/sixPdfRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/six_view"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:nestedScrollingEnabled="false"/>
+
+        </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/sevenRelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@id/sixRelativeLayout">
+
+
+        <TextView
+            android:id="@+id/sevenPdfTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-2dp"
+            android:padding="6dp"
+            android:text="Seven"
+            android:textAlignment="center"
+            android:textColor="#151514"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/seven_view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/sevenPdfTextView"
+            android:layout_marginVertical="8dp"
+            android:background="#330707"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/sevenPdfRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/seven_view"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:nestedScrollingEnabled="false"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/eightRelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@id/sevenRelativeLayout">
+
+
+        <TextView
+            android:id="@+id/eightPdfTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-2dp"
+            android:padding="6dp"
+            android:text="Eight"
+            android:textAlignment="center"
+            android:textColor="#151514"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/eight_view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/eightPdfTextView"
+            android:layout_marginVertical="8dp"
+            android:background="#330707"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/eightPdfRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_below="@id/eight_view"
+            android:nestedScrollingEnabled="false"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/nineRelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@id/eightRelativeLayout">
+
+        <TextView
+            android:id="@+id/ninePdfTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-2dp"
+            android:padding="6dp"
+            android:text="Nine"
+            android:textAlignment="center"
+            android:textColor="#151514"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/nine_view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/ninePdfTextView"
+            android:layout_marginVertical="8dp"
+            android:background="#330707"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/ninePdfRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_below="@id/nine_view"
+            android:nestedScrollingEnabled="false"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/tenRelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@id/nineRelativeLayout">
+
+
+        <TextView
+            android:id="@+id/tenPdfTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-2dp"
+            android:padding="6dp"
+            android:text="Ten"
+            android:textAlignment="center"
+            android:textColor="#151514"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/ten_view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/tenPdfTextView"
+            android:layout_marginVertical="8dp"
+            android:background="#330707"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/tenPdfRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_below="@id/ten_view"
+            android:nestedScrollingEnabled="false"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/elevenRelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@id/tenRelativeLayout">
+
+
+        <TextView
+            android:id="@+id/elevenPdfTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-2dp"
+            android:padding="6dp"
+            android:text="Eleven"
+            android:textAlignment="center"
+            android:textColor="#151514"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/eleven_view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/elevenPdfTextView"
+            android:layout_marginVertical="8dp"
+            android:background="#330707"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/elevenPdfRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:nestedScrollingEnabled="false"
+            android:layout_below="@id/eleven_view"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/twelveRelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@id/elevenRelativeLayout">
+
+        <TextView
+            android:id="@+id/twelvePdfTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-2dp"
+            android:padding="6dp"
+            android:text="Twelve"
+            android:textAlignment="center"
+            android:textColor="#151514"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/twelve_view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/twelvePdfTextView"
+            android:layout_marginVertical="8dp"
+            android:background="#330707"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/twelvePdfRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:nestedScrollingEnabled="false"
+            android:layout_below="@id/twelve_view"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/prevPaperRelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/twelveRelativeLayout">
+
+        <TextView
+            android:id="@+id/prevPdfTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="-2dp"
+            android:padding="6dp"
+            android:text="Previous Paper"
+            android:textAlignment="center"
+            android:textColor="#151514"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+        <View
+            android:id="@+id/prev_view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/prevPdfTextView"
+            android:layout_marginVertical="8dp"
+            android:background="#330707"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/prevPdfRecycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/prev_view"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:nestedScrollingEnabled="false"/>
+
+
+
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>
