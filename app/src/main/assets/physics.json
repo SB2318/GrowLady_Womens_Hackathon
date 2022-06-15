@@ -1,0 +1,193 @@
+[
+
+        {
+            "name": "Direct Current produces a magnetic field similar to a permanent magnet. This magnetic field:",
+            "option1": "unidirectional with steady magnitude",
+            "option2": "unidirectional with magnitude varies in regular pattern",
+            "option3": "has steady magnitude but changes direction in regular pattern",
+            "option4":"changes direction and magnitude in regular pattern",
+            "answerNr":"1"
+        },
+        {
+            "name": "The speed of the sound increases when there is an increase in the",
+            "option1": "Temperature",
+            "option2": "Moisture",
+            "option3": "Both of these",
+            "option4":"None of these",
+            "answerNr":"3"
+        },
+        {
+            "name": "If the frequency of a sound wave is reduced to half of its original value, then the speed of sound wave will:",
+            "option1": "reduce to half of its original value",
+            "option2": "double to that of its original value",
+            "option3": "increase fourfold of its original value",
+            "option4":"remain same",
+            "answerNr":"1"
+        },
+        {
+            "name": "Who among the following discovered X-rays?",
+            "option1": "Marie Curie",
+            "option2": "J.J Thomson",
+            "option3": "W.C Roentgen",
+            "option4":"James Chadwick",
+            "answerNr":"3"
+        },
+        {
+            "name": "Nuclear Reactors are based on which of the following phenomenon?",
+            "option1": "Magnetic confinement of Plasma",
+            "option2": "Nuclear Fusion",
+            "option3": "Controlled Nuclear Fission",
+            "option4":"None of the above",
+            "answerNr":"3"
+        },
+        {
+            "name": "Who among the following is credited for the discovery of Expanding Universe",
+            "option1": "Edwin Hubble",
+            "option2": "Niels Bohr",
+            "option3": "S Chandra Shekhar",
+            "option4":"C.V Raman",
+            "answerNr":"1"
+        },
+
+        {
+            "name": "The instrument that measures and records the relative humidity",
+            "option1": "Hydrometer",
+            "option2": "Hygrometer",
+            "option3": "Lactometer",
+            "option4":"Barometer",
+            "answerNr":"2"
+        },
+
+        {
+            "name": "The shape of our milky way galaxy is",
+            "option1": "Circular",
+            "option2": "Eliptical",
+            "option3": "Spiral",
+            "option4":"None of these",
+            "answerNr":"3"
+        },
+
+        {
+            "name": "The different colors od different stars due to variation of ",
+            "option1": "Temperature",
+            "option2": "Pressure",
+            "option3": "Density",
+            "option4":"Radiation from them",
+            "answerNr":"1"
+        },
+
+        {
+            "name": "The fundamental scientific principal in the operation of a battery is ",
+            "option1": "Acid base interaction",
+            "option2": "Dialysis",
+            "option3": "dissociation of electrolytes",
+            "option4":"oxydation reduction",
+            "answerNr":"3"
+        },
+
+        {
+            "name": "Instrument used to measure force and velocity of wind",
+            "option1": "Ammeter",
+            "option2": "Anemometer",
+            "option3": "Altimeter",
+            "option4":"Audiometer",
+            "answerNr":"2"
+        },
+
+        {
+            "name": "Which combination of colors is the most convenient during day and night time",
+            "option1": "Organe and Blue",
+            "option2": "White and Black",
+            "option3": "Yellow and Blue",
+            "option4":"Red and Green",
+            "answerNr":"2"
+        },
+
+        {
+            "name": "Which combination of colors is the most convenient during day and night time",
+            "option1": "Organe and Blue",
+            "option2": "White and Black",
+            "option3": "Yellow and Blue",
+            "option4":"Red and Green",
+            "answerNr":"2"
+        },
+
+        {
+            "name": "Which cis the weakest force in nature",
+            "option1": "Strong force",
+            "option2": "gravity",
+            "option3": "Weak force",
+            "option4":"Electromagnetic force",
+            "answerNr":"2"
+        },
+
+        {
+            "name": "Pierre Gassendi, a French philosopher-scientist, observed gunfire from a distance in order to measure which natural phenomenon?",
+            "option1": "The spped of light",
+            "option2": "The speed of sound",
+            "option3": "gravity",
+            "option4":"Atmoshpheric Interference",
+            "answerNr":"2"
+        },
+
+        {
+            "name": "Who among these men was the first scientist to conduct a controlled nuclear chain reaction experiment?",
+            "option1": "Richard P. Feynman",
+            "option2": "Albert Einstein",
+            "option3": "Arthur Holly Compton",
+            "option4":"Enrico Firmi",
+            "answerNr":"4"
+        },
+
+        {
+            "name": "What is the phenomenon of Raman scattering, named after Indian physicist C.V. Raman?",
+            "option1": "motion of atoms in ionized gas",
+            "option2": "Effects of cloud layers on radio emission",
+            "option3": "Statistical distribution of meteorite impacts",
+            "option4":"Change of wavelength and deflected light",
+            "answerNr":"4"
+        },
+
+        {
+            "name": "What reaction involving atomic nuclei is the source of the Suns energy?",
+            "option1": "Chemical combustion",
+            "option2": "Nuclear fission",
+            "option3": "Nuclear fusion",
+            "option4":"Ionization",
+            "answerNr":"3"
+        },
+        {
+            "name": "If the temperature of a semi-conductor is decreased, then its electrical conductivity will be",
+            "option1": "Increased",
+            "option2": "Decreased",
+            "option3": "First increased later decreased",
+            "option4":"Same",
+            "answerNr":"2"
+        },
+        {
+            "name": "A candle transforms..",
+            "option1": "Mechanical energy into electrical energy",
+            "option2": "Chemical energy into light and heat energy",
+            "option3": "Sound energy into electrical energy",
+            "option4":"Electricl energy into sound energy",
+            "answerNr":"2"
+        },
+        {
+            "name": "Which among the following influences the pitch of sounds?",
+            "option1": "Velocity",
+            "option2": "Frequency",
+            "option3": "Wavelength",
+            "option4":"Amplitude",
+            "answerNr":"2"
+        },
+        {
+            "name": "Which among the following has the minimum specific heat capacity?",
+            "option1": "Water",
+            "option2": "Ice",
+            "option3": "Iron",
+            "option4":"Lead",
+            "answerNr":"1"
+        }
+
+    ]
+ 

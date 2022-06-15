@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/motivationFragment"
+        android:title="Motivational Story"
+        android:icon="@drawable/motivational_story"
+
+        />
+    <item
+        android:id="@+id/previousPaperFragment"
+        android:title="Previous Papers"
+        android:icon="@drawable/previous_paper"
+        />
+
+    <item
+        android:id="@+id/updateFragment"
+        android:title="Update Profile"
+        android:icon="@drawable/update_profile"
+        />
+
+    <item
+        android:id="@+id/log_out"
+        android:title="Log Out"
+        android:icon="@drawable/log_out"
+        />
+</menu>

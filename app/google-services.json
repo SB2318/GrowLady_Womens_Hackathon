@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "219143047860",
+    "firebase_url": "https://growladyadmin-default-rtdb.firebaseio.com",
+    "project_id": "growladyadmin",
+    "storage_bucket": "growladyadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219143047860:android:92a1e1799ab63738c865e1",
+        "android_client_info": {
+          "package_name": "com.example.sb2318.growlady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219143047860-tupu5jg2ddi7arg358632rosru1jvb7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvVl2Ecs0U6NjuHoG-h1kqMoKAEYKDqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219143047860-tupu5jg2ddi7arg358632rosru1jvb7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219143047860:android:22986f671006a348c865e1",
+        "android_client_info": {
+          "package_name": "com.example.sb2318.growladyadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219143047860-tupu5jg2ddi7arg358632rosru1jvb7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvVl2Ecs0U6NjuHoG-h1kqMoKAEYKDqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219143047860-tupu5jg2ddi7arg358632rosru1jvb7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

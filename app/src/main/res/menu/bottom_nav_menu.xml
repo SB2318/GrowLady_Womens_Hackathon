@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/videoFragment"
+        android:title="Videos"
+        android:icon="@drawable/ic_video_library_24"
+
+        />
+    <item
+        android:id="@+id/pdfFragment"
+        android:title="Ebooks"
+        android:icon="@drawable/ic_pdf_library_24"
+        />
+
+    <item
+        android:id="@+id/createFragment"
+        android:title="Create"
+        android:icon="@drawable/ic_create_24"
+        />
+
+    <item
+        android:id="@+id/quizFragment"
+        android:title="Quiz"
+        android:icon="@drawable/ic_quiz_24"
+        />
+
+
+
+</menu>

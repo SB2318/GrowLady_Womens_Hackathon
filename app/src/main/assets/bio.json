@@ -1,0 +1,232 @@
+[
+        
+        {
+            "name": "Which of the following protects the body against infectious disease and foreign invaders?",
+            "option1": "Leukocytes",
+            "option2": "Red blood cells",
+            "option3": "Endoplasmic reticulum (ER)",
+            "option4":"Golgi apparatus",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "Which among the following sugars is maximum in Honey?",
+            "option1": "Glucose",
+            "option2": "Sucrose",
+            "option3": "Fructose",
+            "option4":"Maltose",
+            "answerNr":"3"
+
+        },
+
+        {
+            "name": "Corpus Callosum makes an important part of which among the following organs in Human body?",
+            "option1": "Brain",
+            "option2": "Liver",
+            "option3": "Kidney",
+            "option4":"Spinal Chord",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "Out of Diphtheria, Whooping cough, Typhoid , Diarrhea & Malaria which is not caused by bacteria?",
+            "option1": "Whooping Cough",
+            "option2": "Typhoid",
+            "option3": "Malaria",
+            "option4":"None of the above",
+            "answerNr":"3"
+
+        },
+
+        {
+            "name": "Lac is the scarlet resinous secretion from...",
+            "option1": "Herbs",
+            "option2": "Trees",
+            "option3": "Barks",
+            "option4":"Insects",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Butter is a ________",
+            "option1": "fat dispersed in milk",
+            "option2": "fat dispersed in water",
+            "option3": "water dispersed in fat",
+            "option4":"None of the above",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "In which part of the respiratory system, gaseous exchange takes place?",
+            "option1": "Alveoli",
+            "option2": "Pharynx",
+            "option3": "Larynx",
+            "option4":"Trachea",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "Which of the following is the function of the human liver?",
+            "option1": "Production of bile",
+            "option2": "Metabolization of fats",
+            "option3": "Metabolization of carbohydrates",
+            "option4":"All of the above",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Albumin is the most important protein in blood serum. It is produced by _______",
+            "option1": "Hearts",
+            "option2": "Lung",
+            "option3": "Liver",
+            "option4":"Endocrine glands",
+            "answerNr":"3"
+
+        },
+
+        {
+            "name": "Which of the following is the main cause for transmission of the Hepatitis virus?",
+            "option1": "The bite of a mosquito",
+            "option2": "Sharing drug needles",
+            "option3": "Drinking contaminated water",
+            "option4":"All of the above",
+            "answerNr":"2"
+
+        },
+
+        {
+            "name": "Which of the following vitamins cannot be produced by our body?",
+            "option1": "Vitamin A",
+            "option2": "Vitamin K",
+            "option3": "Vitamin C",
+            "option4":"All of the above",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Which of the following are examples of macro minerals?",
+            "option1": "Sodium",
+            "option2": "Calcium",
+            "option3": "Chloride",
+            "option4":"All of the above",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Which of the following are examples of macro minerals?",
+            "option1": "Sodium",
+            "option2": "Calcium",
+            "option3": "Chloride",
+            "option4":"All of the above",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Ordinary table salt is sodium chloride. What is baking soda?",
+            "option1": "Potassium chloride",
+            "option2": "Potassium carbonate",
+            "option3": "Potassium hydroxide",
+            "option4":"Sodium bicarbonate",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Pollination is best defined as",
+            "option1": "transfer of pollen from anther to stigma",
+            "option2": "germination of pollen grains",
+            "option3": "growth of pollen tube in ovule",
+            "option4":"visiting flowers by insects",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "Plants receive their nutrients mainly from",
+            "option1": "chlorophyll",
+            "option2": "atmoshphere",
+            "option3": "light",
+            "option4":"soil",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Movement of cell against concentration gradient is called",
+            "option1": "osmosis",
+            "option2": "active transport",
+            "option3": "diffusion",
+            "option4":"passive transport",
+            "answerNr":"2"
+
+        },
+
+        {
+            "name": "Plants synthesis protein from",
+            "option1": "starch",
+            "option2": "sugar",
+            "option3": "amino acids",
+            "option4":"fatty acid",
+            "answerNr":"3"
+
+        },
+
+        {
+            "name": "Photosynthesis generally takes place in which parts of the plant?",
+            "option1": "Leaf and other chloroplast bearing parts",
+            "option2": "stem and leaf",
+            "option3": "Roots and chloroplast bearing parts",
+            "option4":"Bark and leaf",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "Mosquito cannot be vector for which Diseases.",
+            "option1": "Kalazar (Black Fever)",
+            "option2": "Yellow Fever",
+            "option3": "Dengu Fever",
+            "option4":"Filaria",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "Largest muscle of a human body is:",
+            "option1": "Gluetus Maximus",
+            "option2": "Bicep",
+            "option3": "Stapadius",
+            "option4":"Cardiac",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "Which among the following breed of cows gives maximum amount of milk?",
+            "option1": "Jersey",
+            "option2": "Holstein",
+            "option3": "Red Sindhi",
+            "option4":"Sahiwal",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "Cattle fish is also known as...",
+            "option1": "Loligo",
+            "option2": "Cipia",
+            "option3": "Pila",
+            "option4":"Terido",
+            "answerNr":"2"
+
+        }
+    ]

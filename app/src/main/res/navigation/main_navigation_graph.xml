@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation_graph"
+    app:startDestination="@id/videoFragment">
+
+
+    <fragment
+        android:id="@+id/videoFragment"
+        android:name="com.example.sb2318.growlady.VideoFragment"
+        android:label="Lecture Videos"
+        tools:layout="@layout/fragment_video" />
+    <fragment
+        android:id="@+id/pdfFragment"
+        android:name="com.example.sb2318.growlady.PdfFragment"
+        android:label="Ebooks"
+        tools:layout="@layout/fragment_pdf" />
+    <dialog
+        android:id="@+id/createFragment"
+        android:name="com.example.sb2318.growlady.CreateFragment"
+        android:label="CreateFragment" >
+        <action
+            android:id="@+id/action_createFragment_to_uploadPdfFragment"
+            app:destination="@id/uploadPdfFragment" />
+        <action
+            android:id="@+id/action_createFragment_to_uploadVideoFragment"
+            app:destination="@id/uploadVideoFragment" />
+    </dialog>
+    <fragment
+        android:id="@+id/quizFragment"
+        android:name="com.example.sb2318.growlady.QuizFragment"
+        android:label="Quiz"
+        tools:layout="@layout/fragment_quiz" >
+        <action
+            android:id="@+id/action_quizFragment_to_questionsFragment"
+            app:destination="@id/questionsFragment" />
+        <argument
+            android:name="highScore"
+            app:argType="integer"
+            android:defaultValue="0" />
+    </fragment>
+    <fragment
+        android:id="@+id/uploadPdfFragment"
+        android:name="com.example.sb2318.growlady.UploadPdfFragment"
+        android:label="Upload a new Ebook"
+        tools:layout="@layout/fragment_upload_pdf" />
+    <fragment
+        android:id="@+id/uploadVideoFragment"
+        android:name="com.example.sb2318.growlady.UploadVideoFragment"
+        android:label="Upload a new lecture"
+        tools:layout="@layout/fragment_upload_video" />
+    <fragment
+        android:id="@+id/questionsFragment"
+        android:name="com.example.sb2318.growlady.QuestionsFragment"
+        android:label="Play"
+        tools:layout="@layout/fragment_questions" >
+        <argument
+            android:name="fileName"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_questionsFragment_to_quizFragment"
+            app:destination="@id/quizFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/motivationFragment"
+        android:name="com.example.sb2318.growlady.MotivationFragment"
+        android:label="Motivational Story"
+        tools:layout="@layout/fragment_motivation" />
+    <fragment
+        android:id="@+id/previousPaperFragment"
+        android:name="com.example.sb2318.growlady.PreviousPaperFragment"
+        android:label="Previous Exams"
+        tools:layout="@layout/fragment_previous_paper" />
+    <fragment
+        android:id="@+id/updateFragment"
+        android:name="com.example.sb2318.growlady.UpdateFragment"
+        android:label="Update Info"
+        tools:layout="@layout/fragment_update" />
+</navigation>

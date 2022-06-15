@@ -1,0 +1,221 @@
+[
+
+
+        {
+            "name": "Which among the following oxides cause the Acid rain ? ",
+            "option1": "Carbon monoxide and carbon dioxide",
+            "option2": "Nitrous oxide and sulphur dioxide",
+            "option3": "Carbon dioxide and nitrous oxide",
+            "option4":"Sulphur dioxide and carbon monoxide",
+            "answerNr":"2"
+
+        },
+        {
+            "name": "The easily noticed smell of the LPG gas is because of which among the following?",
+            "option1": "Butane",
+            "option2": "Propane",
+            "option3": "Methane",
+            "option4":"Ethanethiol",
+            "answerNr":"4"
+
+        },
+        {
+            "name": "Which of the following catalyst is used generally during the hydrogenation of Alkenes?",
+            "option1": "Platinum",
+            "option2": "Paladium",
+            "option3": "Nickel",
+            "option4":"All of the above",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Highest percentage of nitrogen is found in which among the following fertilizers among the given options?",
+            "option1": "Calcium ammonium nitrate",
+            "option2": "Ammonium nitrate",
+            "option3": "Calcium nitrate",
+            "option4":"Urea",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Which of the following is correct about tincture of iodine?",
+            "option1": "It is a solution of iodine in ethanol",
+            "option2": "It is a solution of iodine in Hydrochloric acid",
+            "option3": "It is a solution of iodine in Nitric acid",
+            "option4":"None of the above",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "What do we call an ideal body which emits and absorbs all frequencies?",
+            "option1": "Black body",
+            "option2": "White body",
+            "option3": "Red body",
+            "option4":"Zero body",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "The nucleus of an atom consists of",
+            "option1": "electrons and neutrons",
+            "option2": "electrons and protons",
+            "option3": "protons and neutrons",
+            "option4":"All of the above",
+            "answerNr":"3"
+
+        },
+
+        {
+            "name": "The number of moles of solute present in 1 kg of a solvent is called its",
+            "option1": "molality",
+            "option2": "molarity",
+            "option3": "normality",
+            "option4":"formality",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "The most electronegative element among the following is",
+            "option1": "sodium",
+            "option2": "bromine",
+            "option3": "flourine",
+            "option4":"oxygen",
+            "answerNr":"3"
+
+        },
+
+        {
+            "name": "The metal used to recover copper from a solution of copper sulphate is",
+            "option1": "Na",
+            "option2": "Ag",
+            "option3": "Hg",
+            "option4":"Fe",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "The metallurgical process in which a metal is obtained in a fused state is called",
+            "option1": "smelting",
+            "option2": "roasting",
+            "option3": "calcination",
+            "option4":"froth floatation",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "The most commonly used bleaching agent is",
+            "option1": "alcohol",
+            "option2": "carbon di oxide",
+            "option3": "chlorine",
+            "option4":"sodium chlorine",
+            "answerNr":"3"
+
+        },
+
+        {
+            "name": "What is the most common isotope of hydrogen?",
+            "option1": "Protium",
+            "option2": "Deuterium",
+            "option3": "Tritum",
+            "option4":"Hydrogen has only one isotope!",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "Who is credited with the invention of the modern periodic table?",
+            "option1": "Nobel",
+            "option2": "Lavoiser",
+            "option3": "Mendel",
+            "option4":"Mendeleev",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Which of these elements is a nonmetal?",
+            "option1": "Sulphur",
+            "option2": "Manganese",
+            "option3": "Aluminium",
+            "option4":"Beryllium",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": " The symbol Ag stands for which element?",
+            "option1": "Gallium",
+            "option2": "Magnesium",
+            "option3": "Gold",
+            "option4":"Silver",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Where in the body is most of the iron located?",
+            "option1": "Brain",
+            "option2": "Skin",
+            "option3": "Bones",
+            "option4":"Blood",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "What do you call an atom that has more protons than electrons?",
+            "option1": "A molecule",
+            "option2": "An Isotope ",            
+            "option3": "An anion",
+            "option4":"A cation",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Which one is naturally occuring nobel gas",
+            "option1": "Sodium",
+            "option2": "Potassium",            
+            "option3": "Argon",
+            "option4":"Boron",
+            "answerNr":"3"
+
+        },
+
+        {
+            "name": "Who first published periodic table",
+            "option1": "John Dalton",
+            "option2": "Julius Lothar Meyer",            
+            "option3": "Henry Moseley",
+            "option4":"Dimitri Mendeleev",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "Atomic number is the number equal to",
+            "option1": "Electrons",
+            "option2": "Protons ",            
+            "option3": "Neutrons",
+            "option4":"None of the above",
+            "answerNr":"2"
+
+        },
+
+        {
+            "name": "Which one element from below list is liquid at room temperature?",
+            "option1": "Zinc",
+            "option2": "Argon",            
+            "option3": "Lead",
+            "option4":"Bromine",
+            "answerNr":"4"
+
+        }
+    ]

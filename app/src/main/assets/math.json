@@ -1,0 +1,217 @@
+[
+        {
+            "name": "800536 + 8008",
+            "option1": "808544",
+            "option2": "808454",
+            "option3": "807644",
+            "option4":"88454",
+            "answerNr":"1"
+
+        },
+        {
+            "name": "What is the three fifth of 100?",
+            "option1": "3",
+            "option2": "5",
+            "option3": "20",
+            "option4":"60",
+            "answerNr":"4"
+
+        },
+        {
+            "name": "If Davids age is 27 years old in 2011. What was his age in 2003?",
+            "option1": "17 years",
+            "option2": "37 years",
+            "option3": "20 years",
+            "option4":"19 years",
+            "answerNr":"4"
+
+        },
+        {
+            "name": "letters of the word mathematics are arranged at random. Probability that the word formed containes the word 'math' is",
+            "option1": "1/99",
+            "option2": "1/990",
+            "option3": "2/99",
+            "option4":"1/168",
+            "answerNr":"4"
+
+        },
+        {
+            "name": "Which of the following is a counter example of the statement, 'The perimeter of a rectangle can never be an odd number'?",
+            "option1": "Length of a rectangle is  3.25 in. and width is 5.25 in.",
+            "option2": "Length of a rectangle is  10 in. and width is 7 in.",
+            "option3": "Length of a rectangle is  9 in. and width is 5 in.",
+            "option4":"None of these",
+            "answerNr":"1"
+
+        },
+        {
+            "name": "The tangent to the curve y = e",
+            "option1": "(0, 1)",
+            "option2": "(-1/2, 0)",
+            "option3": "(2, 0)",
+            "option4": "(0, 2)",
+            "answerNr":"2"
+
+        },
+
+        {
+            "name": "Which of the following is not the element of power set of {23}?",
+            "option1": "Φ",
+            "option2": "{2}",
+            "option3": "{{2,3}}",
+            "option4": "{23}",
+            "answerNr":"3"
+
+        },
+
+        {
+            "name": "nPn = ________________",
+            "option1": "n!",
+            "option2": "1",
+            "option3": "(frac{1}{(n)!})",
+            "option4": "(n-1)!",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "PQRS is a parallelogram and U and T are midpoints of side RS and PQ respectively.\nIdentify the correct relation from the given options.",
+            "option1": "OU > OT",
+            "option2": "OU < OT",
+            "option3": "OU = ½ OT",
+            "option4": "OU = OT",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "What is the formula for the circumference of a circle?",
+            "option1": "C = 2πd",
+            "option2": "C = 2πr",
+            "option3": "C = 2πa",
+            "option4": "C = 2πs",
+            "answerNr":"2"
+
+        },
+
+        {
+            "name": "What is the cube root of 50653?",
+            "option1": "34",
+            "option2": "35",
+            "option3": "36",
+            "option4": "37",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "What is the value of x if O is the centre of circle?",
+            "option1": "90",
+            "option2": "110",
+            "option3": "70",
+            "option4": "55",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "What is the value of x if O is the centre of circle?",
+            "option1": "90",
+            "option2": "110",
+            "option3": "70",
+            "option4": "55",
+            "answerNr":"4"
+
+        },
+
+        {
+            "name": "If a > b and b > c, then;",
+            "option1": "a > c",
+            "option2": "a < c",
+            "option3": "a = c",
+            "option4": "None of these",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "The 6th term of an AP is 6 and the 16th term is 14. What is the 27th term?",
+            "option1": "114/5",
+            "option2": "118/5",
+            "option3": "22/5",
+            "option4": "106/5",
+            "answerNr":"1"
+
+        },
+
+        {
+            "name": "Which of the following is the correct representation of permutation?",
+            "option1": "rPn",
+            "option2": "P(n,r)",
+            "option3": "C(n, r)",
+            "option4": "nCr",
+            "answerNr":"2"
+
+        },
+
+        {
+            "name": "Calculate P(3, 2)",
+            "option1": "12",
+            "option2": "8",
+            "option3": "6",
+            "option4": "7",
+            "answerNr":"3"
+
+        },
+
+        {
+            "name": "What is 8 times 9?",
+            "option1": "70",
+            "option2": "72",
+            "option3": "74",
+            "option4": "76",
+            "answerNr":"2"
+
+        },
+     {
+        "name": "Which is greater: 1 hour or 60 minutes?",
+        "option1": "1 hour",
+        "option2": "60 minutes",
+        "option3": "Both are equal",
+        "option4": "Cannot be determined",
+        "answerNr":"3"
+
+    },
+
+    {
+        "name": "If x, y are two consecutive even numbers and y = 3602, then x =",
+        "option1": "3600",
+        "option2": "3604",
+        "option3": "3606",
+        "option4": "3600 or 3604",
+        "answerNr":"4"
+
+    },
+
+    {
+        "name": "Simplify :150 ÷ (6 + 3 x 8) - 5",
+        "option1": "2",
+        "option2": "5",
+        "option3": "0",
+        "option4": "None of these",
+        "answerNr":"3"
+
+    },
+
+    {
+        "name": "Solve : 200 * (96 ÷ 4)",
+        "option1": "2800",
+        "option2": "9087",
+        "option3": "5674",
+        "option4": "7690",
+        "answerNr":"1"
+
+    }
+
+
+]
