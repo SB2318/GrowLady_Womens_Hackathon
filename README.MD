@@ -10,6 +10,8 @@ For now, it is an application that allows users to access or upload Videos and E
 
 Clicking on any one of the class cards here will give them the information they need.
 
+![WhatsApp Image 2022-06-20 at 10 06 22 PM](https://user-images.githubusercontent.com/87614560/174648093-63984e62-bad0-407a-a27e-a78613a30fb1.jpeg)
+
 
 # Used Tech Stack:
 ---
@@ -20,3 +22,9 @@ Clicking on any one of the class cards here will give them the information they 
 4. JetPack Navigation Components
 5. Firebase
 6. JSON
+
+# Demo Video
+---
+
+https://user-images.githubusercontent.com/87614560/174648252-46ae5c92-9aaa-4923-97f4-018caa905886.mp4
+
